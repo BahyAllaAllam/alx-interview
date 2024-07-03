@@ -1,18 +1,18 @@
 #!/usr/bin/python3
 """
-0x01. Lockboxes 
+0x01. Lockboxes
 """
 
 
 def canUnlockAll(boxes):
   """
-  A function that determines 
+  A function that determines
   if all the boxes can be opened
   """
   n = len(boxes)
   opened = set([0])
   stack = [0]
-  
+
   if not boxes:
     return False
 
