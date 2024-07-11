@@ -7,16 +7,21 @@ Here is a list of concepts and resources that will be helpful:**
 **Concepts Needed:**
 
   1- **Dynamic Programming:**
+    
     - Familiarity with dynamic programming can help in breaking down the problem into simpler subproblems and building up the solution.
   
   2- **Prime Factorization:**
+    
     - Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of the target number n.
   
   3- **Code Optimization:**
+    
     - Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
   
   4- **Greedy Algorithms:**
+    
     - The problem can also be approached with greedy algorithms, choosing the best option at each step.
   
   5- **Basic Python Programming:**
+  
     - Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.
