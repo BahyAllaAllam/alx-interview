@@ -45,7 +45,7 @@ def main():
     board = [-1] * N
     solutions = []
     solve_nqueens(N, 0, board, solutions)
- 
+
     for solution in solutions:
         print(solution)
 
