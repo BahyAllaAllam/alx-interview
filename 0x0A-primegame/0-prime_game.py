@@ -4,6 +4,11 @@
 
 def isWinner(x, nums):
     """Function to get who has won in prime game"""
+    if x <= 0 or nums is None:
+        return None
+    if x != len(nums):
+        return None
+
     mariaWinsCount = 0
     benWinsCount = 0
 
